@@ -4,7 +4,7 @@
 	 *
 	 * Used for automatically deploying websites via github or 
 bitbucket, more deets here:sdfsdf
-	 *
+	 * pool of shit
 	 *		https://gist.github.com/1809044
 	 */
  
